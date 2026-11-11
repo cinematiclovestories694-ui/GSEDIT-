@@ -1,0 +1,6 @@
+{
+  "name": "GS Edit AI",
+  "description": "GS Edit AI is a private cinematic AI movie generator for Android and web, featuring automated story-to-movie production, character consistency, realistic cinema styles, timeline editing, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

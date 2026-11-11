@@ -1,0 +1,56 @@
+{
+  "owner": {
+    "email": "cinematiclovestories694@gmail.com",
+    "passwordHash": "909da15a19400115e317a2845a8075e8540916a5b411999811cd016dcaecaf6d5778cb18cba2bc5eb904c6deed1d2967fc648c81852943845174339134613734",
+    "salt": "80c82c9848ed9badc9939ea2afe4650a",
+    "name": "Master Director",
+    "createdAt": "2026-11-11T22:58:55.334Z",
+    "updatedAt": "2026-11-11T22:58:55.334Z",
+    "lastLogin": "2026-11-11T22:58:55.335Z",
+    "twoFactorEnabled": true
+  },
+  "sessions": [
+    {
+      "token": "gs_9fa1f252ce7b6d4a188540f1aeef50314226eda5b8e0b62840a2172f78dc5a6e",
+      "email": "cinematiclovestories694@gmail.com",
+      "createdAt": "2026-11-11T22:58:55.335Z",
+      "expiresAt": "2026-12-11T22:58:55.335Z",
+      "userAgent": "curl/7.88.1",
+      "ip": "127.0.0.1"
+    }
+  ],
+  "verificationCodes": [
+    {
+      "code": "888326",
+      "email": "cinematiclovestories694@gmail.com",
+      "purpose": "login",
+      "expiresAt": 1794438840698
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "e4ee54e2-4124-488d-a614-b30c93adbd5e",
+      "email": "cinematiclovestories694@gmail.com",
+      "action": "REQUEST_CODE_LOGIN",
+      "timestamp": "2026-11-11T22:59:00.698Z",
+      "status": "SUCCESS",
+      "ip": "127.0.0.1"
+    },
+    {
+      "id": "426b89df-d760-4c68-b307-bec50067190e",
+      "email": "cinematiclovestories694@gmail.com",
+      "action": "OWNER_ACCOUNT_INITIALIZED",
+      "timestamp": "2026-11-11T22:58:55.334Z",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "419b225b-6a98-4cb8-bcc3-4627b9d9cd94",
+      "email": "intruder@example.com",
+      "action": "INIT_OWNER_REJECTED_UNAUTHORIZED_EMAIL",
+      "timestamp": "2026-11-11T22:58:50.940Z",
+      "status": "BLOCKED",
+      "ip": "127.0.0.1"
+    }
+  ],
+  "projects": []
+}
